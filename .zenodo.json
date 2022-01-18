@@ -1,0 +1,14 @@
+{
+    "creators": [
+        {
+            "affiliation": "Spatialys",
+            "name": "Rouault, Even",
+            "orcid": "0000-0002-5068-0476"
+        }
+    ],
+    "description": "bla",
+    "license": {
+        "id": "MIT"
+    },
+    "title": "test_zenodo"
+}
